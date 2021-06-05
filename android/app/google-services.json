@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "143842842488",
+    "firebase_url": "https://sakecgate.firebaseio.com",
+    "project_id": "sakecgate",
+    "storage_bucket": "sakecgate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143842842488:android:aa64d3e816aaa121039a8d",
+        "android_client_info": {
+          "package_name": "com.example.SAKEC_GATE"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143842842488-1s78dakav66gbs6702vrqfg04b4q0hcq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXhm19gIlzlJjKj5-4bFjPLeL4tPnj6bM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143842842488-1s78dakav66gbs6702vrqfg04b4q0hcq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
